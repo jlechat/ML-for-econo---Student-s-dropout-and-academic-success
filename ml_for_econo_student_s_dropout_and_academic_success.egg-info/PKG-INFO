@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: ml-for-econo-student-s-dropout-and-academic-success
+Version: 0.1.0
+Summary: ML for Econometrics course project applying machine learning and causal inference methods to analyze student dropout and academic success.
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: ipykernel>=7.2.0
+Requires-Dist: jupyter>=1.1.1
+Requires-Dist: matplotlib>=3.10.1
+Requires-Dist: pandas>=3.0.1
+Requires-Dist: scikit-learn>=1.6.0
+Requires-Dist: scipy>=1.15.0
+Requires-Dist: seaborn>=0.13.2
+Requires-Dist: ucimlrepo>=0.0.7
+Requires-Dist: networkx>=3.4
+Requires-Dist: pgmpy>=0.1.26
+Requires-Dist: doubleml>=0.9.0
+Requires-Dist: skrub>=0.5.0
+
+# ML-for-econo---Student-s-dropout-and-academic-success
+
+Analyse du drop out en fonction du classement des voeux avec analyse d'effet possiblement hétérogènes selon :
+- La CSP des parents,
+- Le sexe,
+- Court en journée ou en soirée,
+Analyse du fait d'avoir des bourses sur les performances académiques (à vérifier qu'il y a bien du drop out : en France, obligation de rester en cours).
+Il me semble que le dataset concene le portugal seulement? 
