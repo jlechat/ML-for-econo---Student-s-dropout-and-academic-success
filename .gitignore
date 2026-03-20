@@ -1,3 +1,6 @@
 *.csv
+<<<<<<< HEAD
+=======
 *.txt 
 *.pycache
+>>>>>>> 04f80c372e499a4f8d24271e9bef2d5a2cdee9c2
